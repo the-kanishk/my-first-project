@@ -7,3 +7,11 @@ Goals:
 - Learn Python
 - Build projects
 - Become better everyday
+
+## Current Progress
+- Started learning Python
+- Created first repo
+
+## Upcoming Projects
+- Calculator
+- Number guessing game
