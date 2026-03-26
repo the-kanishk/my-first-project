@@ -1,4 +1,4 @@
-# my-first-project
+learning-python-projects
 
 Hi, I am Kanishk.
 I am learning coding and this is my first project on GitHub.
