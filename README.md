@@ -1,6 +1,6 @@
 learning-python-projects
 
-Hi, I am Kanishk.
+Hi, I am Kartik.
 I am learning coding and this is my first project on GitHub.
 
 Goals:
